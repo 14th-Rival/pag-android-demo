@@ -1,4 +1,4 @@
-package com.innov.paganimationdemo;
+package com.innov.paganimationmydemo;
 
 import org.junit.Test;
 

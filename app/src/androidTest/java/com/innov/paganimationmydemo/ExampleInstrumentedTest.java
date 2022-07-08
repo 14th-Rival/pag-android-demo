@@ -1,4 +1,4 @@
-package com.innov.paganimationdemo;
+package com.innov.paganimationmydemo;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.innov.paganimationdemo", appContext.getPackageName());
+        assertEquals("com.innov.paganimationmydemo", appContext.getPackageName());
     }
 }

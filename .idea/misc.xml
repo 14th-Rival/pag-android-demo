@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationDemo/app/src/main/res/layout/activity_main.xml" value="0.21105072463768115" />
-        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationDemo/app/src/main/res/layout/activity_texture_demo.xml" value="0.21105072463768115" />
-        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationDemo/app/src/main/res/layout/layout_detail.xml" value="0.21105072463768115" />
-        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationDemo/app/src/main/res/layout/layout_item.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationMyDemo/app/src/main/res/drawable/btn_background.xml" value="0.145" />
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationMyDemo/app/src/main/res/drawable/recycler_not_selected.xml" value="0.145" />
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationMyDemo/app/src/main/res/drawable/recycler_selected.xml" value="0.145" />
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationMyDemo/app/src/main/res/layout/activity_main.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/john.cachaoero/AndroidStudioProjects/PAGAnimationMyDemo/app/src/main/res/layout/cardview_asset.xml" value="0.21105072463768115" />
       </map>
     </option>
   </component>
